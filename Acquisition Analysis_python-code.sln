@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Acquisition Analysis_python-code", "Acquisition Analysis_python-code.pyproj", "{4C32A6CB-27D1-4124-98BE-39C8B87A110C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C32A6CB-27D1-4124-98BE-39C8B87A110C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C32A6CB-27D1-4124-98BE-39C8B87A110C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E30E04C-8D60-493C-84D7-50A1CAB0323C}
+	EndGlobalSection
+EndGlobal
